@@ -49,8 +49,3 @@ npm install
 npm start
 ```
 
-Explore the branch structure for specific concepts and implementations.
-
----
-
-This README highlights the key aspects you're covering and gives anyone visiting your repo a clear understanding of the learning scope.
