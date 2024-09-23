@@ -1,7 +1,3 @@
-Here’s a README description for your GitHub repo:
-
----
-
 # React Learning and Practice
 
 This repository contains a comprehensive collection of React concepts, implementations, and best practices that I have learned from **Sangam Mukherjee's YouTube channel**. The repository serves as both a reference and a practice space for mastering React, as well as associated technologies like Redux, Zustand, and Firebase.
