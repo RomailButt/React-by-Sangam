@@ -1,0 +1,17 @@
+.headerTitle{
+    color: red;
+    font-size: 25px;
+}
+
+.mainWrapper{
+    padding: 50px;
+}
+
+.todoListWrapper{
+    /* display: grid;
+    gap: 15px;
+    grid-template-columns: repeat(4, 1fr); */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}

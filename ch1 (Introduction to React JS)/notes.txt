@@ -1,0 +1,10 @@
+Q1. what is react js?
+Ans: React Js is a JavaScript library that is used to build frontend applications or UI components. React Js is allows us to build reusable 
+components. (components are the biulding block). It is creeated by Facebook.
+Q2. Advantages and disadvantages of react js.
+Ans: 
+1) reusable components
+2) open source
+3) efficient and fast
+4) works in browser
+5) large community
