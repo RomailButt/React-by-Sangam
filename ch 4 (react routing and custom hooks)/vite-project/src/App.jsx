@@ -9,6 +9,8 @@ import Layout from "./components/layout";
 import ReactHookFormExamplePage from "./pages/react-hook-form-example";
 import Hooks from "./pages/hooks";
 import UseMemoHook from "./pages/hooks/useMemoHook";
+import UseCallbackHook from "./pages/hooks/useCallbackHook";
+import ReactQuery from "./pages/react-query";
 
 function Routes() {
   const element = useRoutes([
@@ -32,7 +34,6 @@ function Routes() {
           path: "/home/eact-hook-form",
           element: <ReactHookFormExamplePage />,
         },
-        
       ],
     },
     {
@@ -45,7 +46,15 @@ function Routes() {
     },
     {
       path: "/memo",
-      element: <UseMemoHook/>,
+      element: <UseMemoHook />,
+    },
+    {
+      path: "/callback",
+      element: <UseCallbackHook />,
+    },
+    {
+      path: "/react-query",
+      element: <ReactQuery />,
     },
   ]);
 
